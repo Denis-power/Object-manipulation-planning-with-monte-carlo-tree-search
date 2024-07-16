@@ -1,0 +1,85 @@
+pybullet build time: Apr  8 2024 19:25:02
+100%|██████████| 50/50 [07:34<00:00,  9.09s/it]
+________________________________
+results for  1 desired poses.
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+D:\Denis\Documents\Anaconda\envs\Manipulation_Monte_Carlo_Tree\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+mean computation time: nan
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 1.0
+mean computation time: 0.531256947517395
+worst computation time: 1.020564079284668
+avg error: [0. 0.]
+D:\Denis\Documents\Anaconda\envs\Manipulation_Monte_Carlo_Tree\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+  0%|          | 0/50 [00:00<?, ?it/s]worst error [0.   0.01]
+________________________________
+untrained model results
+________________________________
+success rate: 1.0
+mean computation time: 1.4592250633239745
+worst computation time: 5.940814971923828
+avg error: [0. 0.]
+worst error [0.01 0.02]
+________________________________
+100%|██████████| 50/50 [22:43<00:00, 27.26s/it]
+________________________________
+results for  2 desired poses.
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+mean computation time: nan
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 1.0
+mean computation time: 1.1540837621688842
+worst computation time: 2.4516422748565674
+avg error: [0. 0.]
+worst error [0.   0.01]
+________________________________
+untrained model results
+________________________________
+success rate: 1.0
+mean computation time: 10.534683995246887
+worst computation time: 62.3517210483551
+avg error: [0.   0.01]
+worst error [0.01 0.04]
+________________________________
+ 14%|█▍        | 7/50 [09:06<1:06:45, 93.15s/it]D:\Denis\Documents\Anaconda\envs\Manipulation_Monte_Carlo_Tree\Lib\site-packages\cvxpy\problems\problem.py:1403: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  warnings.warn(
+100%|██████████| 50/50 [50:42<00:00, 60.85s/it]
+________________________________
+results for  3 desired poses.
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+mean computation time: nan
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 1.0
+mean computation time: 3.3917569589614867
+worst computation time: 49.34845733642578
+avg error: [0. 0.]
+worst error [0.   0.07]
+________________________________
+untrained model results
+________________________________
+success rate: 0.94
+mean computation time: 39.374389414787295
+worst computation time: 172.3179051876068
+avg error: [0.   0.01]
+worst error [0.   0.06]
+________________________________

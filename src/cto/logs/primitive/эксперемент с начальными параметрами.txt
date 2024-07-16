@@ -1,0 +1,128 @@
+pybullet build time: Apr  8 2024 19:25:02
+100%|██████████| 50/50 [02:58<00:00,  3.57s/it]
+  0%|          | 0/50 [00:00<?, ?it/s]________________________________
+results for primitive:  s
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 1.0
+mean computation time: 0.4002397871017456
+worst computation time: 1.0076165199279785
+avg error: [0. 0.]
+worst error [0.   0.05]
+________________________________
+untrained model results
+________________________________
+success rate: 1.0
+mean computation time: 0.8333642578125
+worst computation time: 4.202985525131226
+avg error: [0.   0.08]
+worst error [0.02 2.22]
+________________________________
+100%|██████████| 50/50 [07:49<00:00,  9.39s/it]
+________________________________
+results for primitive:  l
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 1.0
+mean computation time: 0.39001729011535646
+worst computation time: 1.7054812908172607
+avg error: [0.12 0.04]
+worst error [0.77 0.28]
+________________________________
+untrained model results
+________________________________
+success rate: 0.92
+mean computation time: 6.786756582260132
+worst computation time: 22.830102920532227
+avg error: [0.37 0.14]
+worst error [0.77 0.57]
+________________________________
+ 28%|██▊       | 14/50 [02:54<06:18, 10.52s/it]D:\Denis\Documents\Anaconda\envs\Manipulation_Monte_Carlo_Tree\Lib\site-packages\cvxpy\problems\problem.py:1403: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  warnings.warn(
+100%|██████████| 50/50 [08:58<00:00, 10.77s/it]
+  0%|          | 0/50 [00:00<?, ?it/s]________________________________
+results for primitive:  r
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 1.0
+mean computation time: 0.4170041036605835
+worst computation time: 1.1099963188171387
+avg error: [0. 0.]
+worst error [0. 0.]
+________________________________
+untrained model results
+________________________________
+success rate: 0.94
+mean computation time: 7.548941588401794
+worst computation time: 29.69343614578247
+avg error: [0. 0.]
+worst error [0. 0.]
+________________________________
+100%|██████████| 50/50 [04:55<00:00,  5.92s/it]
+________________________________
+results for primitive:  sc
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 1.0
+mean computation time: 0.41587060928344727
+worst computation time: 1.4985415935516357
+avg error: [0. 0.]
+worst error [0.01 0.03]
+________________________________
+untrained model results
+________________________________
+success rate: 1.0
+mean computation time: 2.750888214111328
+worst computation time: 17.204391956329346
+avg error: [0.   0.07]
+worst error [0.02 0.85]
+________________________________
+100%|██████████| 50/50 [13:52<00:00, 16.64s/it]
+________________________________
+results for primitive:  p
+________________________________
+miqp model results
+________________________________
+success rate: 0.0
+all tasks failed
+________________________________
+trained model results
+________________________________
+success rate: 0.98
+mean computation time: 1.6430306005477906
+worst computation time: 28.869866371154785
+avg error: [0.   1.02]
+worst error [0.  2.5]
+________________________________
+untrained model results
+________________________________
+success rate: 0.86
+mean computation time: 12.598149032592774
+worst computation time: 33.47612929344177
+avg error: [0.03 1.87]
+worst error [ 0.98 19.26]
+________________________________
